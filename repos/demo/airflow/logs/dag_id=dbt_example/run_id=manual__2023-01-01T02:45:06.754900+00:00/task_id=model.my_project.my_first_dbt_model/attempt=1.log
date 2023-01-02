@@ -1,0 +1,34 @@
+[2022-12-31 18:45:09,486] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dbt_example.model.my_project.my_first_dbt_model manual__2023-01-01T02:45:06.754900+00:00 [queued]>
+[2022-12-31 18:45:09,490] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dbt_example.model.my_project.my_first_dbt_model manual__2023-01-01T02:45:06.754900+00:00 [queued]>
+[2022-12-31 18:45:09,490] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-12-31 18:45:09,491] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-12-31 18:45:09,491] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-12-31 18:45:09,498] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): model.my_project.my_first_dbt_model> on 2023-01-01 02:45:06.754900+00:00
+[2022-12-31 18:45:09,500] {standard_task_runner.py:52} INFO - Started process 60588 to run task
+[2022-12-31 18:45:09,504] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'dbt_example', 'model.my_project.my_first_dbt_model', 'manual__2023-01-01T02:45:06.754900+00:00', '--job-id', '3', '--raw', '--subdir', 'DAGS_FOLDER/dbt_example.py', '--cfg-path', '/var/folders/7s/852sy8qx6lx4d2xxm8yv15sw0000gn/T/tmpjvv05u61', '--error-file', '/var/folders/7s/852sy8qx6lx4d2xxm8yv15sw0000gn/T/tmpaq508wre']
+[2022-12-31 18:45:09,505] {standard_task_runner.py:80} INFO - Job 3: Subtask model.my_project.my_first_dbt_model
+[2022-12-31 18:45:09,540] {task_command.py:370} INFO - Running <TaskInstance: dbt_example.model.my_project.my_first_dbt_model manual__2023-01-01T02:45:06.754900+00:00 [running]> on host 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+[2022-12-31 18:45:09,573] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=dbt_example
+AIRFLOW_CTX_TASK_ID=model.my_project.my_first_dbt_model
+AIRFLOW_CTX_EXECUTION_DATE=2023-01-01T02:45:06.754900+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-01-01T02:45:06.754900+00:00
+[2022-12-31 18:45:09,574] {subprocess.py:62} INFO - Tmp dir root location: 
+ /var/folders/7s/852sy8qx6lx4d2xxm8yv15sw0000gn/T
+[2022-12-31 18:45:09,575] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'cd /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/dbt/my_project && eval "\\$(pyenv init -)" && eval "\\$(pyenv virtualenv-init -)" && pyenv activate demo_dbt && dbt run --models my_first_dbt_model']
+[2022-12-31 18:45:09,580] {subprocess.py:85} INFO - Output:
+[2022-12-31 18:45:09,641] {subprocess.py:92} INFO - bash: PATH="$(bash: command not found
+[2022-12-31 18:45:09,642] {subprocess.py:96} INFO - Command exited with return code 127
+[2022-12-31 18:45:09,650] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/operators/bash.py", line 194, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 127.
+[2022-12-31 18:45:09,652] {taskinstance.py:1395} INFO - Marking task as FAILED. dag_id=dbt_example, task_id=model.my_project.my_first_dbt_model, execution_date=20230101T024506, start_date=20230101T024509, end_date=20230101T024509
+[2022-12-31 18:45:09,660] {standard_task_runner.py:92} ERROR - Failed to execute job 3 for task model.my_project.my_first_dbt_model (Bash command failed. The command returned a non-zero exit code 127.; 60588)
+[2022-12-31 18:45:09,686] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-12-31 18:45:09,731] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

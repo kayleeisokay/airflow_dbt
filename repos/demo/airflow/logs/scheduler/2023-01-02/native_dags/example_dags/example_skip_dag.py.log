@@ -1,0 +1,28 @@
+[2023-01-01 16:00:39,064] {processor.py:153} INFO - Started process (PID=10395) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-01-01 16:00:39,064] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-01-01 16:00:39,064] {logging_mixin.py:115} INFO - [2023-01-01 16:00:39,064] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-01-01 16:00:39,074] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-01-01 16:00:39,122] {logging_mixin.py:115} INFO - [2023-01-01 16:00:39,122] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:00:39,132] {logging_mixin.py:115} INFO - [2023-01-01 16:00:39,132] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-01-01T00:00:39.132737+00:00, run_after=2023-01-02T00:00:39.132737+00:00
+[2023-01-01 16:00:39,141] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-01-01 16:01:44,160] {processor.py:153} INFO - Started process (PID=10495) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-01-01 16:01:44,160] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-01-01 16:01:44,160] {logging_mixin.py:115} INFO - [2023-01-01 16:01:44,160] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-01-01 16:01:44,170] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-01-01 16:01:44,217] {logging_mixin.py:115} INFO - [2023-01-01 16:01:44,217] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:01:44,227] {logging_mixin.py:115} INFO - [2023-01-01 16:01:44,227] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-01-01T00:01:44.227242+00:00, run_after=2023-01-02T00:01:44.227242+00:00
+[2023-01-01 16:01:44,236] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-01-01 16:02:44,500] {processor.py:153} INFO - Started process (PID=10579) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-01-01 16:02:44,501] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-01-01 16:02:44,501] {logging_mixin.py:115} INFO - [2023-01-01 16:02:44,501] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-01-01 16:02:44,511] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-01-01 16:02:44,560] {logging_mixin.py:115} INFO - [2023-01-01 16:02:44,560] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:02:44,571] {logging_mixin.py:115} INFO - [2023-01-01 16:02:44,571] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-01-01T00:02:44.571559+00:00, run_after=2023-01-02T00:02:44.571559+00:00
+[2023-01-01 16:02:44,579] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2023-01-01 16:03:44,289] {processor.py:153} INFO - Started process (PID=10665) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-01-01 16:03:44,290] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-01-01 16:03:44,290] {logging_mixin.py:115} INFO - [2023-01-01 16:03:44,290] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-01-01 16:03:44,300] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-01-01 16:03:44,347] {logging_mixin.py:115} INFO - [2023-01-01 16:03:44,347] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:03:44,357] {logging_mixin.py:115} INFO - [2023-01-01 16:03:44,357] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-01-01T00:03:44.357078+00:00, run_after=2023-01-02T00:03:44.357078+00:00
+[2023-01-01 16:03:44,365] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds

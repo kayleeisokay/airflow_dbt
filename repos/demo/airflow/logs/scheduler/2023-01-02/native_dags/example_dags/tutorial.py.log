@@ -1,0 +1,35 @@
+[2023-01-01 16:00:12,885] {processor.py:153} INFO - Started process (PID=10361) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-01-01 16:00:12,885] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-01-01 16:00:12,886] {logging_mixin.py:115} INFO - [2023-01-01 16:00:12,886] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-01-01 16:00:12,895] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-01-01 16:00:12,941] {logging_mixin.py:115} INFO - [2023-01-01 16:00:12,940] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:00:12,951] {logging_mixin.py:115} INFO - [2023-01-01 16:00:12,951] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2023-01-01T00:00:12.951490+00:00, run_after=2023-01-02T00:00:12.951490+00:00
+[2023-01-01 16:00:12,960] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-01-01 16:01:19,013] {processor.py:153} INFO - Started process (PID=10455) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-01-01 16:01:19,013] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-01-01 16:01:19,014] {logging_mixin.py:115} INFO - [2023-01-01 16:01:19,014] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-01-01 16:01:19,023] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-01-01 16:01:19,072] {logging_mixin.py:115} INFO - [2023-01-01 16:01:19,071] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:01:19,082] {logging_mixin.py:115} INFO - [2023-01-01 16:01:19,082] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2023-01-01T00:01:19.082442+00:00, run_after=2023-01-02T00:01:19.082442+00:00
+[2023-01-01 16:01:19,090] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.077 seconds
+[2023-01-01 16:02:21,875] {processor.py:153} INFO - Started process (PID=10547) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-01-01 16:02:21,875] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-01-01 16:02:21,876] {logging_mixin.py:115} INFO - [2023-01-01 16:02:21,876] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-01-01 16:02:21,885] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-01-01 16:02:21,933] {logging_mixin.py:115} INFO - [2023-01-01 16:02:21,933] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:02:21,944] {logging_mixin.py:115} INFO - [2023-01-01 16:02:21,944] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2023-01-01T00:02:21.944555+00:00, run_after=2023-01-02T00:02:21.944555+00:00
+[2023-01-01 16:02:21,953] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.078 seconds
+[2023-01-01 16:03:20,943] {processor.py:153} INFO - Started process (PID=10632) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-01-01 16:03:20,943] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-01-01 16:03:20,944] {logging_mixin.py:115} INFO - [2023-01-01 16:03:20,943] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-01-01 16:03:20,953] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-01-01 16:03:20,999] {logging_mixin.py:115} INFO - [2023-01-01 16:03:20,999] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:03:21,009] {logging_mixin.py:115} INFO - [2023-01-01 16:03:21,009] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2023-01-01T00:03:21.009028+00:00, run_after=2023-01-02T00:03:21.009028+00:00
+[2023-01-01 16:03:21,017] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-01-01 16:04:19,891] {processor.py:153} INFO - Started process (PID=10716) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-01-01 16:04:19,891] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-01-01 16:04:19,891] {logging_mixin.py:115} INFO - [2023-01-01 16:04:19,891] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-01-01 16:04:19,900] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-01-01 16:04:19,948] {logging_mixin.py:115} INFO - [2023-01-01 16:04:19,947] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:04:19,959] {logging_mixin.py:115} INFO - [2023-01-01 16:04:19,959] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2023-01-01T00:04:19.959016+00:00, run_after=2023-01-02T00:04:19.959016+00:00
+[2023-01-01 16:04:19,967] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.077 seconds

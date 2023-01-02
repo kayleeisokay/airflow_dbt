@@ -1,0 +1,49 @@
+[2023-01-01 16:00:03,649] {processor.py:153} INFO - Started process (PID=10348) to work on /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:00:03,650] {processor.py:641} INFO - Processing file /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py for tasks to queue
+[2023-01-01 16:00:03,650] {logging_mixin.py:115} INFO - [2023-01-01 16:00:03,650] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:00:03,666] {processor.py:651} INFO - DAG(s) dict_keys(['dbt_example']) retrieved from /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:00:03,712] {logging_mixin.py:115} INFO - [2023-01-01 16:00:03,712] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:00:03,722] {logging_mixin.py:115} INFO - [2023-01-01 16:00:03,722] {dag.py:2927} INFO - Setting next_dagrun for dbt_example to 2023-01-01T08:00:00+00:00, run_after=2023-01-02T08:00:00+00:00
+[2023-01-01 16:00:03,730] {processor.py:161} INFO - Processing /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py took 0.081 seconds
+[2023-01-01 16:00:35,620] {processor.py:153} INFO - Started process (PID=10389) to work on /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:00:35,621] {processor.py:641} INFO - Processing file /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py for tasks to queue
+[2023-01-01 16:00:35,621] {logging_mixin.py:115} INFO - [2023-01-01 16:00:35,621] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:00:35,637] {processor.py:651} INFO - DAG(s) dict_keys(['dbt_example']) retrieved from /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:00:35,687] {logging_mixin.py:115} INFO - [2023-01-01 16:00:35,686] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:00:35,697] {logging_mixin.py:115} INFO - [2023-01-01 16:00:35,697] {dag.py:2927} INFO - Setting next_dagrun for dbt_example to 2023-01-01T08:00:00+00:00, run_after=2023-01-02T08:00:00+00:00
+[2023-01-01 16:00:35,706] {processor.py:161} INFO - Processing /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py took 0.086 seconds
+[2023-01-01 16:01:08,268] {processor.py:153} INFO - Started process (PID=10441) to work on /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:01:08,268] {processor.py:641} INFO - Processing file /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py for tasks to queue
+[2023-01-01 16:01:08,269] {logging_mixin.py:115} INFO - [2023-01-01 16:01:08,268] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:01:08,284] {processor.py:651} INFO - DAG(s) dict_keys(['dbt_example']) retrieved from /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:01:08,331] {logging_mixin.py:115} INFO - [2023-01-01 16:01:08,331] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:01:08,341] {logging_mixin.py:115} INFO - [2023-01-01 16:01:08,341] {dag.py:2927} INFO - Setting next_dagrun for dbt_example to 2023-01-01T08:00:00+00:00, run_after=2023-01-02T08:00:00+00:00
+[2023-01-01 16:01:08,348] {processor.py:161} INFO - Processing /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py took 0.081 seconds
+[2023-01-01 16:01:41,607] {processor.py:153} INFO - Started process (PID=10485) to work on /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:01:41,607] {processor.py:641} INFO - Processing file /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py for tasks to queue
+[2023-01-01 16:01:41,607] {logging_mixin.py:115} INFO - [2023-01-01 16:01:41,607] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:01:41,623] {processor.py:651} INFO - DAG(s) dict_keys(['dbt_example']) retrieved from /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:01:41,671] {logging_mixin.py:115} INFO - [2023-01-01 16:01:41,671] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:01:41,681] {logging_mixin.py:115} INFO - [2023-01-01 16:01:41,681] {dag.py:2927} INFO - Setting next_dagrun for dbt_example to 2023-01-01T08:00:00+00:00, run_after=2023-01-02T08:00:00+00:00
+[2023-01-01 16:01:41,689] {processor.py:161} INFO - Processing /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py took 0.083 seconds
+[2023-01-01 16:02:12,372] {processor.py:153} INFO - Started process (PID=10536) to work on /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:02:12,372] {processor.py:641} INFO - Processing file /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py for tasks to queue
+[2023-01-01 16:02:12,372] {logging_mixin.py:115} INFO - [2023-01-01 16:02:12,372] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:02:12,388] {processor.py:651} INFO - DAG(s) dict_keys(['dbt_example']) retrieved from /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:02:12,435] {logging_mixin.py:115} INFO - [2023-01-01 16:02:12,435] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:02:12,445] {logging_mixin.py:115} INFO - [2023-01-01 16:02:12,444] {dag.py:2927} INFO - Setting next_dagrun for dbt_example to 2023-01-01T08:00:00+00:00, run_after=2023-01-02T08:00:00+00:00
+[2023-01-01 16:02:12,452] {processor.py:161} INFO - Processing /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py took 0.081 seconds
+[2023-01-01 16:03:12,759] {processor.py:153} INFO - Started process (PID=10623) to work on /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:03:12,759] {processor.py:641} INFO - Processing file /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py for tasks to queue
+[2023-01-01 16:03:12,759] {logging_mixin.py:115} INFO - [2023-01-01 16:03:12,759] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:03:12,775] {processor.py:651} INFO - DAG(s) dict_keys(['dbt_example']) retrieved from /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:03:12,822] {logging_mixin.py:115} INFO - [2023-01-01 16:03:12,822] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:03:12,832] {logging_mixin.py:115} INFO - [2023-01-01 16:03:12,832] {dag.py:2927} INFO - Setting next_dagrun for dbt_example to 2023-01-01T08:00:00+00:00, run_after=2023-01-02T08:00:00+00:00
+[2023-01-01 16:03:12,839] {processor.py:161} INFO - Processing /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py took 0.081 seconds
+[2023-01-01 16:04:11,760] {processor.py:153} INFO - Started process (PID=10705) to work on /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:04:11,760] {processor.py:641} INFO - Processing file /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py for tasks to queue
+[2023-01-01 16:04:11,760] {logging_mixin.py:115} INFO - [2023-01-01 16:04:11,760] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:04:11,776] {processor.py:651} INFO - DAG(s) dict_keys(['dbt_example']) retrieved from /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py
+[2023-01-01 16:04:11,824] {logging_mixin.py:115} INFO - [2023-01-01 16:04:11,824] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:04:11,835] {logging_mixin.py:115} INFO - [2023-01-01 16:04:11,835] {dag.py:2927} INFO - Setting next_dagrun for dbt_example to 2023-01-01T08:00:00+00:00, run_after=2023-01-02T08:00:00+00:00
+[2023-01-01 16:04:11,843] {processor.py:161} INFO - Processing /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/airflow/dags/dbt_example.py took 0.083 seconds

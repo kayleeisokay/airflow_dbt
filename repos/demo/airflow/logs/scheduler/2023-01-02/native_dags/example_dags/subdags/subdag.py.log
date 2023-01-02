@@ -1,0 +1,25 @@
+[2023-01-01 16:00:37,366] {processor.py:153} INFO - Started process (PID=10394) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-01-01 16:00:37,366] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-01-01 16:00:37,366] {logging_mixin.py:115} INFO - [2023-01-01 16:00:37,366] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-01-01 16:00:37,367] {processor.py:653} WARNING - No viable dags retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-01-01 16:00:37,397] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2023-01-01 16:01:09,971] {processor.py:153} INFO - Started process (PID=10442) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-01-01 16:01:09,971] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-01-01 16:01:09,971] {logging_mixin.py:115} INFO - [2023-01-01 16:01:09,971] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-01-01 16:01:09,972] {processor.py:653} WARNING - No viable dags retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-01-01 16:01:10,000] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2023-01-01 16:01:43,373] {processor.py:153} INFO - Started process (PID=10493) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-01-01 16:01:43,373] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-01-01 16:01:43,373] {logging_mixin.py:115} INFO - [2023-01-01 16:01:43,373] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-01-01 16:01:43,374] {processor.py:653} WARNING - No viable dags retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-01-01 16:01:43,404] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2023-01-01 16:02:42,809] {processor.py:153} INFO - Started process (PID=10577) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-01-01 16:02:42,810] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-01-01 16:02:42,810] {logging_mixin.py:115} INFO - [2023-01-01 16:02:42,810] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-01-01 16:02:42,811] {processor.py:653} WARNING - No viable dags retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-01-01 16:02:42,844] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.035 seconds
+[2023-01-01 16:03:42,600] {processor.py:153} INFO - Started process (PID=10664) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-01-01 16:03:42,600] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-01-01 16:03:42,600] {logging_mixin.py:115} INFO - [2023-01-01 16:03:42,600] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-01-01 16:03:42,601] {processor.py:653} WARNING - No viable dags retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-01-01 16:03:42,632] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds

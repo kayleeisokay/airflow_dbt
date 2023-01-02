@@ -1,0 +1,28 @@
+[2023-01-01 16:00:58,889] {processor.py:153} INFO - Started process (PID=10422) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-01-01 16:00:58,889] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-01-01 16:00:58,889] {logging_mixin.py:115} INFO - [2023-01-01 16:00:58,889] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-01-01 16:00:58,903] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-01-01 16:00:58,954] {logging_mixin.py:115} INFO - [2023-01-01 16:00:58,954] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:00:58,963] {logging_mixin.py:115} INFO - [2023-01-01 16:00:58,963] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-01-01 16:00:58,970] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2023-01-01 16:02:03,117] {processor.py:153} INFO - Started process (PID=10522) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-01-01 16:02:03,118] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-01-01 16:02:03,118] {logging_mixin.py:115} INFO - [2023-01-01 16:02:03,118] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-01-01 16:02:03,132] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-01-01 16:02:03,182] {logging_mixin.py:115} INFO - [2023-01-01 16:02:03,182] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:02:03,192] {logging_mixin.py:115} INFO - [2023-01-01 16:02:03,192] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-01-01 16:02:03,201] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.084 seconds
+[2023-01-01 16:03:02,865] {processor.py:153} INFO - Started process (PID=10606) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-01-01 16:03:02,865] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-01-01 16:03:02,865] {logging_mixin.py:115} INFO - [2023-01-01 16:03:02,865] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-01-01 16:03:02,879] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-01-01 16:03:02,929] {logging_mixin.py:115} INFO - [2023-01-01 16:03:02,929] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:03:02,938] {logging_mixin.py:115} INFO - [2023-01-01 16:03:02,938] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-01-01 16:03:02,947] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.083 seconds
+[2023-01-01 16:04:02,882] {processor.py:153} INFO - Started process (PID=10693) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-01-01 16:04:02,882] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-01-01 16:04:02,883] {logging_mixin.py:115} INFO - [2023-01-01 16:04:02,883] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-01-01 16:04:02,896] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-01-01 16:04:02,949] {logging_mixin.py:115} INFO - [2023-01-01 16:04:02,949] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:04:02,960] {logging_mixin.py:115} INFO - [2023-01-01 16:04:02,960] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-01-01 16:04:02,970] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds

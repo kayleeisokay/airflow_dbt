@@ -1,0 +1,32 @@
+[2023-01-01 16:00:42,588] {processor.py:153} INFO - Started process (PID=10401) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-01-01 16:00:42,589] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-01-01 16:00:42,589] {logging_mixin.py:115} INFO - [2023-01-01 16:00:42,589] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-01-01 16:00:42,609] {logging_mixin.py:115} INFO - [2023-01-01 16:00:42,609] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-01-01 16:00:42,616] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-01-01 16:00:42,666] {logging_mixin.py:115} INFO - [2023-01-01 16:00:42,666] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:00:42,677] {logging_mixin.py:115} INFO - [2023-01-01 16:00:42,677] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-01-01 16:00:42,686] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.098 seconds
+[2023-01-01 16:01:47,685] {processor.py:153} INFO - Started process (PID=10501) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-01-01 16:01:47,685] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-01-01 16:01:47,685] {logging_mixin.py:115} INFO - [2023-01-01 16:01:47,685] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-01-01 16:01:47,706] {logging_mixin.py:115} INFO - [2023-01-01 16:01:47,706] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-01-01 16:01:47,712] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-01-01 16:01:47,761] {logging_mixin.py:115} INFO - [2023-01-01 16:01:47,761] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:01:47,771] {logging_mixin.py:115} INFO - [2023-01-01 16:01:47,771] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-01-01 16:01:47,779] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.095 seconds
+[2023-01-01 16:02:47,441] {processor.py:153} INFO - Started process (PID=10585) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-01-01 16:02:47,442] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-01-01 16:02:47,442] {logging_mixin.py:115} INFO - [2023-01-01 16:02:47,442] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-01-01 16:02:47,461] {logging_mixin.py:115} INFO - [2023-01-01 16:02:47,461] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-01-01 16:02:47,467] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-01-01 16:02:47,514] {logging_mixin.py:115} INFO - [2023-01-01 16:02:47,513] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:02:47,522] {logging_mixin.py:115} INFO - [2023-01-01 16:02:47,522] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-01-01 16:02:47,530] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.089 seconds
+[2023-01-01 16:03:47,592] {processor.py:153} INFO - Started process (PID=10671) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-01-01 16:03:47,592] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-01-01 16:03:47,592] {logging_mixin.py:115} INFO - [2023-01-01 16:03:47,592] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-01-01 16:03:47,612] {logging_mixin.py:115} INFO - [2023-01-01 16:03:47,612] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-01-01 16:03:47,618] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-01-01 16:03:47,666] {logging_mixin.py:115} INFO - [2023-01-01 16:03:47,666] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-01-01 16:03:47,677] {logging_mixin.py:115} INFO - [2023-01-01 16:03:47,677] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-01-01 16:03:47,685] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.093 seconds

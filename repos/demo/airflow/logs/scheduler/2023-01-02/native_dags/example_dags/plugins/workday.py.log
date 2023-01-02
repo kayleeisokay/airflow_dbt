@@ -1,0 +1,25 @@
+[2023-01-01 16:00:05,110] {processor.py:153} INFO - Started process (PID=10349) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-01-01 16:00:05,110] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-01-01 16:00:05,110] {logging_mixin.py:115} INFO - [2023-01-01 16:00:05,110] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-01-01 16:00:05,111] {processor.py:653} WARNING - No viable dags retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-01-01 16:00:05,140] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.031 seconds
+[2023-01-01 16:01:11,659] {processor.py:153} INFO - Started process (PID=10445) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-01-01 16:01:11,660] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-01-01 16:01:11,660] {logging_mixin.py:115} INFO - [2023-01-01 16:01:11,660] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-01-01 16:01:11,660] {processor.py:653} WARNING - No viable dags retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-01-01 16:01:11,689] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.030 seconds
+[2023-01-01 16:02:14,130] {processor.py:153} INFO - Started process (PID=10537) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-01-01 16:02:14,130] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-01-01 16:02:14,131] {logging_mixin.py:115} INFO - [2023-01-01 16:02:14,131] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-01-01 16:02:14,131] {processor.py:653} WARNING - No viable dags retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-01-01 16:02:14,161] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.031 seconds
+[2023-01-01 16:03:14,494] {processor.py:153} INFO - Started process (PID=10624) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-01-01 16:03:14,495] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-01-01 16:03:14,495] {logging_mixin.py:115} INFO - [2023-01-01 16:03:14,495] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-01-01 16:03:14,495] {processor.py:653} WARNING - No viable dags retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-01-01 16:03:14,524] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.030 seconds
+[2023-01-01 16:04:13,249] {processor.py:153} INFO - Started process (PID=10708) to work on /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-01-01 16:04:13,249] {processor.py:641} INFO - Processing file /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-01-01 16:04:13,250] {logging_mixin.py:115} INFO - [2023-01-01 16:04:13,250] {dagbag.py:507} INFO - Filling up the DagBag from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-01-01 16:04:13,251] {processor.py:653} WARNING - No viable dags retrieved from /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-01-01 16:04:13,279] {processor.py:161} INFO - Processing /Users/kayleeyvo/opt/anaconda3/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.031 seconds

@@ -1,0 +1,27 @@
+[2022-12-31 21:26:09,049] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dbt_example.model.my_project.my_first_dbt_model manual__2023-01-01T05:26:06.849887+00:00 [queued]>
+[2022-12-31 21:26:09,054] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dbt_example.model.my_project.my_first_dbt_model manual__2023-01-01T05:26:06.849887+00:00 [queued]>
+[2022-12-31 21:26:09,054] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-12-31 21:26:09,054] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-12-31 21:26:09,054] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-12-31 21:26:09,062] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): model.my_project.my_first_dbt_model> on 2023-01-01 05:26:06.849887+00:00
+[2022-12-31 21:26:09,064] {standard_task_runner.py:52} INFO - Started process 80899 to run task
+[2022-12-31 21:26:09,069] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'dbt_example', 'model.my_project.my_first_dbt_model', 'manual__2023-01-01T05:26:06.849887+00:00', '--job-id', '19', '--raw', '--subdir', 'DAGS_FOLDER/dbt_example.py', '--cfg-path', '/var/folders/7s/852sy8qx6lx4d2xxm8yv15sw0000gn/T/tmpeqjqa82d', '--error-file', '/var/folders/7s/852sy8qx6lx4d2xxm8yv15sw0000gn/T/tmp7vhxs4df']
+[2022-12-31 21:26:09,070] {standard_task_runner.py:80} INFO - Job 19: Subtask model.my_project.my_first_dbt_model
+[2022-12-31 21:26:09,105] {task_command.py:370} INFO - Running <TaskInstance: dbt_example.model.my_project.my_first_dbt_model manual__2023-01-01T05:26:06.849887+00:00 [running]> on host Kaylees-MacBook-Pro.local
+[2022-12-31 21:26:09,140] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=dbt_example
+AIRFLOW_CTX_TASK_ID=model.my_project.my_first_dbt_model
+AIRFLOW_CTX_EXECUTION_DATE=2023-01-01T05:26:06.849887+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-01-01T05:26:06.849887+00:00
+[2022-12-31 21:26:09,142] {subprocess.py:62} INFO - Tmp dir root location: 
+ /var/folders/7s/852sy8qx6lx4d2xxm8yv15sw0000gn/T
+[2022-12-31 21:26:09,142] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'cd /Users/kayleeyvo/Documents/DS_Learning/datafold_project/repos/demo/dbt/my_project']
+[2022-12-31 21:26:09,148] {subprocess.py:85} INFO - Output:
+[2022-12-31 21:26:09,152] {subprocess.py:96} INFO - Command exited with return code 0
+[2022-12-31 21:26:09,169] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=dbt_example, task_id=model.my_project.my_first_dbt_model, execution_date=20230101T052606, start_date=20230101T052609, end_date=20230101T052609
+[2022-12-31 21:26:09,210] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-12-31 21:26:09,260] {local_task_job.py:273} INFO - 3 downstream tasks scheduled from follow-on schedule check
